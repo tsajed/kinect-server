@@ -1,0 +1,36 @@
+﻿<Window x:Class="HCI2012.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:kt="clr-namespace:HCI2012"
+        Title="Window1" Height="547" Width="1483" Loaded="Window_Loaded" Closed="WindowClosed">
+    <Grid Width="1461">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*" />
+            <RowDefinition Height="508*" />
+        </Grid.RowDefinitions>
+        <Canvas Height="433" HorizontalAlignment="Left" Name="canvas1" VerticalAlignment="Top" Width="847" Margin="0,-9,0,0" Grid.RowSpan="2" Background="#FFD0E7F2">
+            <Label Canvas.Left="0" Canvas.Top="0" Height="60" Name="labelCenter" Background="#FF0000FB" Width="61" />
+            <Label AllowDrop="True" Background="#FFC44141" ClipToBounds="False" Height="57" Name="labelCursor" Width="60" Canvas.Left="0" Canvas.Top="0" />
+            <Label Background="Yellow" Canvas.Left="0" Canvas.Top="-3" Height="60" Name="labelZ" Width="61" />
+            <Label Background="#FFFF00D8" Canvas.Left="-1" Canvas.Top="-3" Height="60" Name="labelLeftZ" Width="61" />
+        </Canvas>
+
+        <Viewbox Grid.Row="1" Margin="853,0,0,84">
+            <!-- Make the colorViewer and skeletonViewer overlap entirely. -->
+            <Grid>
+                <Image Name="depthImage" />
+                <Canvas>
+                    <Canvas Name="skeletonCanvas" x:FieldModifier="public"
+                                         Width="{Binding ElementName=depthImage,Path=ActualWidth}"
+                                         Height="{Binding ElementName=depthImage,Path=ActualHeight}"
+                                         />
+                </Canvas>
+            </Grid>
+        </Viewbox>
+
+        <Label Content="Label av" FontSize="36" Height="81" HorizontalAlignment="Right" IsEnabled="True" Margin="0,424,919,0" Name="lblCoordinate" VerticalAlignment="Top" Width="294" Grid.Row="1" />
+        <Label Content="Label" Height="78" HorizontalAlignment="Left" Margin="12,427,0,0" Name="lblCoord2" VerticalAlignment="Top" Width="251" Grid.Row="1" FontSize="36" />
+        <Label Content="Label" Grid.Row="1" Height="81" HorizontalAlignment="Left" Margin="548,424,0,0" Name="labelVoice" VerticalAlignment="Top" Width="563" FontSize="36" />
+        <Label Content="Label" FontSize="36" Grid.Row="1" Height="81" HorizontalAlignment="Left" Margin="1175,427,0,0" Name="label2" VerticalAlignment="Top" Width="286" />
+    </Grid>
+</Window>

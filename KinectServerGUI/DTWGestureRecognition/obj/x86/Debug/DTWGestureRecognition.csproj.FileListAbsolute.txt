@@ -1,0 +1,153 @@
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+C:\Users\MinhTri\Desktop\302\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MinhTri\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.baml
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.g.cs
+C:\Users\cmput302\Documents\Visual Studio 2010\Projects\KinectBlender\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.lref
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.baml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.baml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.baml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.lref
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.baml
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MinhTri\Desktop\Desktop\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ImageDictionary.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ImageDictionary.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.lref
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.baml
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\AMMI_ADMIN\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\ImageDictionary.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GestureBar.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\SkeletonWindow.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\VoiceCommanWindow.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.lref
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\Window1.baml
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\HCI2012.Properties.Resources.resources
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\hci2012\Downloads\KinectBlender\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog

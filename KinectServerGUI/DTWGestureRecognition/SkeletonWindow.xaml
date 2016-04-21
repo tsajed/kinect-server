@@ -1,0 +1,20 @@
+﻿<Window x:Class="HCI2012.SkeletonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None" Height="372" Width="472" Loaded="Window_Loaded" Closed="WindowClosed">
+    <Grid Height="335" Name="grid1" Width="456">
+        <Viewbox Height="277" HorizontalAlignment="Left" Margin="5,4,0,0" Name="viewbox1" VerticalAlignment="Top" Width="438">
+            <Grid>
+                <Image Name="depthImage" />
+                <Canvas>
+                    <Canvas Name="skeletonCanvas" x:FieldModifier="public"
+                                         Width="{Binding ElementName=depthImage,Path=ActualWidth}"
+                                         Height="{Binding ElementName=depthImage,Path=ActualHeight}"
+                                         />
+                </Canvas>
+            </Grid>
+        </Viewbox>
+        <Label Content="Voice Command" Height="40" HorizontalAlignment="Left" Margin="5,289,0,0" Name="labelVoiceCommand" VerticalAlignment="Top" Width="244" FontSize="24" IsEnabled="False" FontStyle="Italic" />
+        <Label Height="42" HorizontalAlignment="Right" Margin="0,287,12,0" Name="labelScore" VerticalAlignment="Top" Width="191" Content="Confidence" FontSize="24" Foreground="#FF6D6D6D" FontStyle="Italic" />
+    </Grid>
+</Window>
